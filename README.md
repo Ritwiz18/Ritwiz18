@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+Cloud+%26+DevOps+Engineer;Building+secure+cloud+systems;Learning+AWS+%7C+Docker+%7C+Kubernetes;Turning+ideas+into+real+projects" alt="Typing introduction" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ritwiz18-181717?style=for-the-badge&logo=github)](https://github.com/Ritwiz18)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://ritwiz18.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://ritwiz18.github.io/Portfolio_project/)
 
 </div>
 
@@ -77,7 +77,7 @@ Cloud security monitoring project focused on AWS event ingestion, detection work
 
 **Let's build secure, scalable cloud systems together.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://ritwiz18.github.io/Portfolio_project/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://ritwiz18.github.io/Portfolio_project/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ritwiz18)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:533483,100:7C3AED&height=110&section=footer" width="100%" alt="Footer" />
