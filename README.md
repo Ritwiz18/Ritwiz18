@@ -77,7 +77,7 @@ Cloud security monitoring project focused on AWS event ingestion, detection work
 
 **Let's build secure, scalable cloud systems together.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://ritwiz18.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://ritwiz18.github.io/Portfolio_project/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ritwiz18)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:533483,100:7C3AED&height=110&section=footer" width="100%" alt="Footer" />
